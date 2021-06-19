@@ -102,6 +102,10 @@ marginTop:8,
 marginLeft:8,
 marginRight:8
 
+
+/*Jael Oseguera - 201902303*/
+
   }
 });
+
 
