@@ -25,6 +25,8 @@ export default function Canciones(props){
     )
 }
 
+/*Examen3*/
+
 const estilos = StyleSheet.create({
     contenedor:{
         width:'95%',
